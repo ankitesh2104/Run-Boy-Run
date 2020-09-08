@@ -1,5 +1,5 @@
 # Run-Boy-Run
-2D hyper casual game
+2D hyper casual game scripted using C#
 
 Game Engine: Unity Engine ; Engine Version: 2019.3.0f6
 
